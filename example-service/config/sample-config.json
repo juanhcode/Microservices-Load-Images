@@ -1,0 +1,15 @@
+{
+  "environment": "development",
+  "hydra": {
+    "serviceName": "example-service",
+    "serviceIP": "",
+    "servicePort": 0,
+    "serviceType": "example",
+    "serviceDescription": "",
+    "redis": {
+      "url": "127.0.0.1",
+      "port": 6379,
+      "db": 15
+    }
+  }
+}
